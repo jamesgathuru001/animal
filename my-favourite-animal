@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My favourite animal</title>
+  <head>
+  <body>
+    <h1>My Favourite Amimal</h1>
+    <h2>Written by <em>National Geographic</em></h2>
+
+    <p>My favourte animal is the <strong>Lion</strong>. It is one of the fiercest animals in the <strong>animal kingdom</strong>!</p>
+    <p>Here is some of its favourite toys:</p>
+        <ul>
+          <li>Toy ball</li>
+          <li>Toy cat</li>
+          <li>Toy car</li>
+        </ul>
+
+    <p>Their favourite activities are:</p>
+        <ol>
+          <li>Hunting</li>
+          <li>walking</li>
+          <li>sleeping</li>
+        </ol>
+    <p>check out <a href="https://www.nationalgeographic.com/">National Geographic</a>.It`s a great place to learn about animals!</P>
+    <p>Here is a link to my <a href="favorite-things.html">favorite things</a>.</p>
+    <img src="images/lion.jpg" alt="A photo of a lion">  
+      <body>
+      <html>
